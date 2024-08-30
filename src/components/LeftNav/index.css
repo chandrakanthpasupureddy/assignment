@@ -1,0 +1,29 @@
+.butn{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.pcol{
+    background-color: rgba(169, 134, 202, 0.244);
+    color: blueviolet;
+    text-align: left;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.pcol1{
+    background-color: transparent;
+    color: blueviolet;
+}
+.ncol{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgba(80, 76, 76, 0.658);
+}
+.liele{
+    cursor: pointer;
+    padding: 10px;
+}
